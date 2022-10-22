@@ -1,0 +1,22 @@
+{
+  "name": "moo-cp02",
+  "version": "1.0.0",
+  "description": "CP02 - NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hihi-2022/moo-CP02.git"
+  },
+  "author": "moo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hihi-2022/moo-CP02/issues"
+  },
+  "homepage": "https://github.com/hihi-2022/moo-CP02#readme",
+  "dependencies": {
+    "jest": "^29.2.1"
+  }
+}
